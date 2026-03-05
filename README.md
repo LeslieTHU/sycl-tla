@@ -150,6 +150,8 @@ for details on which kernels require which target architectures.
 
 # Documentation
 
+- [中文入门指南 (Chinese Getting Started Guide)](./media/docs/GETTING_STARTED_CN.md) - 面向初学者的中文入门文档
+
 CUTLASS is described in the following documents and the accompanying
 [Doxygen documentation](https://nvidia.github.io/cutlass).
 
