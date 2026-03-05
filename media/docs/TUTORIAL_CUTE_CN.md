@@ -2,7 +2,7 @@
 
 # CuTe 详解教程
 
-CuTe（CUDA/C++ Templates for Linear Algebra）是 SYCL\*TLA 中用于描述和操作**层次化多维布局**的核心模板抽象库。它提供了 `Layout` 和 `Tensor` 两大核心抽象，让程序员专注于算法的逻辑描述，而由 CuTe 自动完成复杂的索引计算。
+CuTe（C++ Templates for Linear Algebra）是 SYCL\*TLA 中用于描述和操作**层次化多维布局**的核心模板抽象库。它提供了 `Layout` 和 `Tensor` 两大核心抽象，让程序员专注于算法的逻辑描述，而由 CuTe 自动完成复杂的索引计算。
 
 本教程将从基础类型开始，逐步深入到高级概念，帮助你全面掌握 CuTe。
 
