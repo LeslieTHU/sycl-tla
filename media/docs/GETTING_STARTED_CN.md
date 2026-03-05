@@ -297,6 +297,10 @@ export LD_LIBRARY_PATH=build/tools/library:$LD_LIBRARY_PATH
 
 ## 进阶学习资源
 
+### 中文教程
+
+- [GEMM 代码详解教程](./TUTORIAL_GEMM_CN.md) — 逐步讲解基础 GEMM 示例代码，涵盖数据类型、布局、TiledMMA、流水线、尾声等核心概念
+
 ### 英文文档
 
 - [SYCL 构建指南](./cpp/build/building_with_sycl_support.md) — 详细的 SYCL 构建说明
