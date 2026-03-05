@@ -299,6 +299,7 @@ export LD_LIBRARY_PATH=build/tools/library:$LD_LIBRARY_PATH
 
 ### 中文教程
 
+- [CuTe 详解教程](./TUTORIAL_CUTE_CN.md) — 全面讲解 CuTe 核心概念（IntTuple、Layout、Tensor、算法、MMA Atom、2D Block Copy），配合代码示例和 CUDA↔SYCL 概念对照
 - [GEMM 代码详解教程](./TUTORIAL_GEMM_CN.md) — 逐步讲解基础 GEMM 示例代码，涵盖数据类型、布局、TiledMMA、流水线、尾声等核心概念
 
 ### 英文文档
