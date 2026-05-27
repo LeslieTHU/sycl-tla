@@ -148,6 +148,10 @@ for details on which kernels require which target architectures.
 
 # Documentation
 
+- [中文入门指南 (Chinese Getting Started Guide)](./media/docs/GETTING_STARTED_CN.md) - 面向初学者的中文入门文档
+- [CuTe 详解教程 (Chinese CuTe Tutorial)](./media/docs/TUTORIAL_CUTE_CN.md) - CuTe 核心概念的全面中文讲解
+- [GEMM 代码详解教程 (Chinese GEMM Code Tutorial)](./media/docs/TUTORIAL_GEMM_CN.md) - GEMM 示例代码的逐步中文讲解
+
 CUTLASS is described in the following documents and the accompanying
 [Doxygen documentation](https://nvidia.github.io/cutlass).
 
